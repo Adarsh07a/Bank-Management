@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "Name": "Adarsh paul",
+            "Email": "pauladarsh91@gmail.com",
+            "Phone": 8629994314,
+            "id": "Fkt715",
+            "Issued_Book": "Mahabharat"
+        },
+        {
+            "Name": "Ram",
+            "Email": "abc2123",
+            "Phone": 9826549589,
+            "id": "aqB709"
+        },
+        {
+            "Name": "Rahul",
+            "Email": "123@abc",
+            "Phone": 1234567890,
+            "id": "bgx947"
+        },
+        {
+            "Name": "Namami",
+            "Email": "jsdjhkdjkf",
+            "Phone": "4569875464",
+            "id": "rxZ533"
+        }
+    ],
+    "books": [
+        {
+            "Name": "Mahabharat"
+        },
+        {
+            "Name": "Harry Potter"
+        },
+        {
+            "Name": "The jungle book"
+        }
+    ]
+}
